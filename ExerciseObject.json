@@ -1,7 +1,7 @@
 [
   {
     "title": "Sumo Squat",
-    "image": "squat_sumo",
+    "image": "squat_sumo.jpg",
     "body_region": [
      "lower"
     ],
@@ -19,7 +19,7 @@
   },
   {
     "title": "Side Plank",
-    "image": "plank_side",
+    "image": "plank_side.jpg",
     "body_region": [
       "core",
       "whole"
@@ -41,7 +41,7 @@
   },
   {
     "title": "Basic Plank",
-    "image": "plank_basic",
+    "image": "plank_basic.png",
     "body_region": [
       "core",
       "whole"
@@ -60,7 +60,7 @@
   },
   {
     "title": "Mountain Climbers",
-    "image": "mountain_climbers",
+    "image": "mountain_climbers.jpg",
     "body_region": [
       "core",
       "cardio",
@@ -82,7 +82,7 @@
   },
   {
     "title": "Jump Squat",
-    "image": "squat_jump",
+    "image": "squat_jump.jpg",
     "body_region": [
       "lower",
       "cardio"
@@ -103,7 +103,7 @@
   },
   {
     "title": "Air Squat",
-    "image": "squat_air",
+    "image": "squat_air.jpg",
     "body_region": [
       "lower"
     ],
@@ -122,7 +122,7 @@
   },
   {
     "title": "Burpee",
-    "image": "burpee",
+    "image": "burpee.jpg",
     "body_region": [
       "whole",
       "lower",
@@ -144,7 +144,7 @@
   },
   {
     "title": "Simple Wall Sit",
-    "image": "wall_sit",
+    "image": "wall_sit.png",
     "body_region": [
       "lower"
     ],
@@ -163,7 +163,7 @@
   },
   {
     "title": "Knee Highs",
-    "image": "knee_high",
+    "image": "knee_high.jpg",
     "body_region": [
       "lower",
       "whole",
@@ -184,7 +184,7 @@
   },
   {
     "title": "Bicycle Crunches",
-    "image": "bicycle_crunch",
+    "image": "bicycle_crunch.png",
     "body_region": [
       "core"
     ],
@@ -205,7 +205,7 @@
   },
   {
     "title": "Swimmer",
-    "image": "swimmer",
+    "image": "swimmer.png",
     "body_region": [
       "core",
       "lower",
@@ -226,7 +226,7 @@
   },
   {
     "title": "Tuck Jumps",
-    "image": "tuck_jump",
+    "image": "tuck_jump.png",
     "body_region": [
       "whole",
       "cardio",
@@ -246,7 +246,7 @@
   },
   {
     "title": "Shoulder Bridge",
-    "image": "shoulder_bridge",
+    "image": "shoulder_bridge.png",
     "body_region": [
       "core",
       "lower"
@@ -266,7 +266,7 @@
   },
   {
     "title": "Back Extension",
-    "image": "back_extension",
+    "image": "back_extension.jpg",
     "body_region": [
       "core",
       "lower",
@@ -289,7 +289,7 @@
   },
   {
     "title": "Star Plank",
-    "image": "plank_star",
+    "image": "plank_star.jpg",
     "body_region": [
       "core",
       "whole"
@@ -309,7 +309,7 @@
   },
   {
     "title": "Pushup",
-    "image": "pushup_basic",
+    "image": "pushup_basic.png",
     "body_region": [
       "upper",
       "whole"
@@ -329,7 +329,7 @@
   },
   {
     "title": "Clap Pushup",
-    "image": "pushup_clap",
+    "image": "pushup_clap.jpg",
     "body_region": [
       "upper",
       "core",
@@ -352,7 +352,7 @@
   },
   {
     "title": "Pike Pushup",
-    "image": "pushup_pike",
+    "image": "pushup_pike.jpg",
     "body_region": [
       "core",
       "upper",
@@ -374,7 +374,7 @@
   },
   {
     "title": "Basic Forward Lunge",
-    "image": "lunge_front_basic",
+    "image": "lunge_front_basic.jpg",
     "body_region": [
       "lower"
     ],
@@ -395,7 +395,7 @@
   },
   {
     "title": "Jump Lunge",
-    "image": "lunge_jump",
+    "image": "lunge_jump.jpg",
     "body_region": [
       "lower",
       "cardio"
@@ -416,7 +416,7 @@
   },
   {
     "title": "Pistol Squat",
-    "image": "squat_pistol",
+    "image": "squat_pistol.jpg",
     "body_region": [
       "lower"
     ],
@@ -436,7 +436,7 @@
   },
   {
     "title": "Single Leg Shoulder Bridge",
-    "image": "single_leg_bridge",
+    "image": "single_leg_bridge.jpg",
     "body_region": [
       "core",
       "lower"
@@ -457,7 +457,7 @@
   },
   {
     "title": "Russian Twist",
-    "image": "russian_twist",
+    "image": "russian_twist.jpeg",
     "body_region": [
       "core"
     ],
